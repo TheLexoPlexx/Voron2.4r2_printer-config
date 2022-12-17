@@ -59,3 +59,11 @@ origin = https://github.com/protoloft/klipper_z_calibration.git
 install_script = install.sh
 managed_services = klipper
 
+[update_manager client moonraker-telegram-bot]
+type = git_repo
+path = ~/moonraker-telegram-bot
+origin = https://github.com/nlef/moonraker-telegram-bot.git
+env = ~/moonraker-telegram-bot-env/bin/python
+requirements = scripts/requirements.txt
+install_script = scripts/install.sh
+
