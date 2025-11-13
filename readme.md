@@ -3,7 +3,6 @@
 Uses:
 * 350-bed
 * [TAP](https://github.com/VoronDesign/Voron-Tap)
-* [KAMP](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)
 * [Telegram](https://github.com/nlef/moonraker-telegram-bot)
 
 And other stuff.
