@@ -2,7 +2,8 @@
 
 Uses:
 * 350-bed
-* [TAP](https://github.com/VoronDesign/Voron-Tap)
+* Cartographer3D
+* BTT U2C
 * [Telegram](https://github.com/nlef/moonraker-telegram-bot)
 
 And other stuff.
